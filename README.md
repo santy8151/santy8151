@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/banner.svg" alt="Santiago Suarez - Software Developer | Full-Stack | Cloud | AI" width="100%" />
+  <img src="https://santy8151.github.io/santy8151/assets/banner.svg" alt="Santiago Suarez - Software Developer | Full-Stack | Cloud | AI" width="100%" />
 </p>
 
 <h1 align="center">Santiago Suarez Ramirez</h1>
@@ -156,8 +156,8 @@ Mi portafolio interactivo esta publicado desde este mismo repositorio con GitHub
 ## Visual Snapshot
 
 <p align="center">
-  <img alt="Technical focus chart" src="./assets/profile-focus.svg" width="49%" />
-  <img alt="Project direction map" src="./assets/project-map.svg" width="49%" />
+  <img alt="Technical focus chart" src="https://santy8151.github.io/santy8151/assets/profile-focus.svg" width="49%" />
+  <img alt="Project direction map" src="https://santy8151.github.io/santy8151/assets/project-map.svg" width="49%" />
 </p>
 
 ---
