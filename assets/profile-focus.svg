@@ -1,0 +1,30 @@
+<svg width="760" height="320" viewBox="0 0 760 320" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Santiago technical focus chart</title>
+  <desc id="desc">A dark card showing Santiago's technical focus areas: Full-Stack, Cloud, AI, Security, Blockchain and Automotive.</desc>
+  <rect width="760" height="320" rx="16" fill="#07111F"/>
+  <rect x="1" y="1" width="758" height="318" rx="15" stroke="#57B9FF" stroke-opacity="0.45" stroke-width="2"/>
+  <text x="34" y="48" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="24" font-weight="800">Technical Focus</text>
+  <text x="34" y="76" fill="#A8D8FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14">Practical software across product, cloud and applied AI.</text>
+  <g font-family="Inter, Segoe UI, Arial, sans-serif" font-size="14" font-weight="700">
+    <text x="34" y="122" fill="#E8F4FF">Full-Stack</text>
+    <rect x="170" y="105" width="520" height="18" rx="9" fill="#10243B"/>
+    <rect x="170" y="105" width="468" height="18" rx="9" fill="#57B9FF"/>
+    <text x="704" y="120" fill="#A8D8FF" text-anchor="end">90%</text>
+    <text x="34" y="158" fill="#E8F4FF">Cloud &amp; AWS</text>
+    <rect x="170" y="141" width="520" height="18" rx="9" fill="#10243B"/>
+    <rect x="170" y="141" width="442" height="18" rx="9" fill="#2DD4BF"/>
+    <text x="704" y="156" fill="#A8D8FF" text-anchor="end">85%</text>
+    <text x="34" y="194" fill="#E8F4FF">AI / Data</text>
+    <rect x="170" y="177" width="520" height="18" rx="9" fill="#10243B"/>
+    <rect x="170" y="177" width="416" height="18" rx="9" fill="#F59E0B"/>
+    <text x="704" y="192" fill="#A8D8FF" text-anchor="end">80%</text>
+    <text x="34" y="230" fill="#E8F4FF">Security QA</text>
+    <rect x="170" y="213" width="520" height="18" rx="9" fill="#10243B"/>
+    <rect x="170" y="213" width="374" height="18" rx="9" fill="#EF4444"/>
+    <text x="704" y="228" fill="#A8D8FF" text-anchor="end">72%</text>
+    <text x="34" y="266" fill="#E8F4FF">Blockchain</text>
+    <rect x="170" y="249" width="520" height="18" rx="9" fill="#10243B"/>
+    <rect x="170" y="249" width="338" height="18" rx="9" fill="#8B5CF6"/>
+    <text x="704" y="264" fill="#A8D8FF" text-anchor="end">65%</text>
+  </g>
+</svg>

@@ -153,11 +153,11 @@ Mi portafolio interactivo esta publicado desde este mismo repositorio con GitHub
 
 ---
 
-## GitHub Activity
+## Visual Snapshot
 
 <p align="center">
-  <img height="165" alt="GitHub stats" src="https://github-readme-stats.vercel.app/api?username=santy8151&show_icons=true&theme=github_dark&hide_border=true&rank_icon=github" />
-  <img height="165" alt="Top languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=santy8151&layout=compact&theme=github_dark&hide_border=true" />
+  <img alt="Technical focus chart" src="./assets/profile-focus.svg" width="49%" />
+  <img alt="Project direction map" src="./assets/project-map.svg" width="49%" />
 </p>
 
 ---
