@@ -1,0 +1,62 @@
+<svg width="1280" height="420" viewBox="0 0 1280 420" fill="none" xmlns="http://www.w3.org/2000/svg" role="img" aria-labelledby="title desc">
+  <title id="title">Santiago Suarez GitHub profile banner</title>
+  <desc id="desc">Dark technical banner with cloud, code, AI and automotive interface details.</desc>
+  <rect width="1280" height="420" fill="#07111F"/>
+  <path d="M0 310C190 242 300 376 488 296C659 223 763 86 979 129C1103 154 1181 229 1280 193V420H0V310Z" fill="#0E2B4F"/>
+  <path d="M0 345C174 286 296 392 470 328C682 250 769 174 984 202C1116 219 1204 275 1280 254V420H0V345Z" fill="#123B66"/>
+  <g opacity="0.2" stroke="#A8D8FF" stroke-width="1">
+    <path d="M64 72H1216"/>
+    <path d="M64 132H1216"/>
+    <path d="M64 192H1216"/>
+    <path d="M64 252H1216"/>
+    <path d="M64 312H1216"/>
+    <path d="M160 44V356"/>
+    <path d="M320 44V356"/>
+    <path d="M480 44V356"/>
+    <path d="M640 44V356"/>
+    <path d="M800 44V356"/>
+    <path d="M960 44V356"/>
+    <path d="M1120 44V356"/>
+  </g>
+  <g transform="translate(875 78)" opacity="0.92">
+    <rect x="0" y="0" width="270" height="168" rx="18" fill="#0B1728" stroke="#57B9FF" stroke-width="2"/>
+    <circle cx="28" cy="26" r="6" fill="#FF5F57"/>
+    <circle cx="50" cy="26" r="6" fill="#FFBD2E"/>
+    <circle cx="72" cy="26" r="6" fill="#28C840"/>
+    <path d="M30 68L66 94L30 120" stroke="#57B9FF" stroke-width="9" stroke-linecap="round" stroke-linejoin="round"/>
+    <path d="M96 120H178" stroke="#FFFFFF" stroke-width="9" stroke-linecap="round"/>
+    <path d="M105 72H225" stroke="#A8D8FF" stroke-width="6" stroke-linecap="round" opacity="0.65"/>
+    <path d="M105 94H205" stroke="#A8D8FF" stroke-width="6" stroke-linecap="round" opacity="0.4"/>
+  </g>
+  <g transform="translate(807 261)" opacity="0.9">
+    <path d="M58 54H218C240 54 258 72 258 94V111H18V94C18 72 36 54 58 54Z" fill="#0B1728" stroke="#A8D8FF" stroke-width="3"/>
+    <path d="M78 54L103 22H173L202 54" stroke="#57B9FF" stroke-width="8" stroke-linecap="round" stroke-linejoin="round"/>
+    <circle cx="65" cy="112" r="23" fill="#07111F" stroke="#57B9FF" stroke-width="7"/>
+    <circle cx="211" cy="112" r="23" fill="#07111F" stroke="#57B9FF" stroke-width="7"/>
+    <path d="M98 88H178" stroke="#FFFFFF" stroke-width="7" stroke-linecap="round" opacity="0.85"/>
+  </g>
+  <g transform="translate(110 78)">
+    <text x="0" y="47" fill="#FFFFFF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="48" font-weight="800" letter-spacing="0">SANTIAGO SUAREZ</text>
+    <text x="0" y="91" fill="#A8D8FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="25" font-weight="600" letter-spacing="0">Software Developer | Full-Stack | Cloud | AI</text>
+    <text x="0" y="139" fill="#E8F4FF" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="21" font-weight="400" letter-spacing="0">Building software that connects cloud, AI and real-world problems.</text>
+    <g transform="translate(0 181)" font-family="Inter, Segoe UI, Arial, sans-serif" font-size="18" font-weight="700">
+      <rect x="0" y="0" width="104" height="36" rx="8" fill="#FFFFFF"/>
+      <text x="20" y="24" fill="#07111F">Python</text>
+      <rect x="118" y="0" width="106" height="36" rx="8" fill="#57B9FF"/>
+      <text x="138" y="24" fill="#07111F">FastAPI</text>
+      <rect x="238" y="0" width="91" height="36" rx="8" fill="#FFFFFF"/>
+      <text x="258" y="24" fill="#07111F">React</text>
+      <rect x="343" y="0" width="74" height="36" rx="8" fill="#57B9FF"/>
+      <text x="366" y="24" fill="#07111F">AWS</text>
+      <rect x="431" y="0" width="52" height="36" rx="8" fill="#FFFFFF"/>
+      <text x="452" y="24" fill="#07111F">AI</text>
+    </g>
+  </g>
+  <g opacity="0.75">
+    <circle cx="1056" cy="327" r="4" fill="#57B9FF"/>
+    <circle cx="1114" cy="299" r="4" fill="#57B9FF"/>
+    <circle cx="1164" cy="329" r="4" fill="#57B9FF"/>
+    <path d="M1056 327L1114 299L1164 329" stroke="#57B9FF" stroke-width="2"/>
+    <circle cx="1114" cy="299" r="18" stroke="#A8D8FF" stroke-width="2"/>
+  </g>
+</svg>
