@@ -15,7 +15,4 @@ Desarrollador de software en Medellín, Colombia. Construyo sistemas prácticos 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
 
-### 📫 Contacto
 
-- LinkedIn: [tu-perfil](https://linkedin.com/in/tu-perfil)
-- Email: tu@correo.com
